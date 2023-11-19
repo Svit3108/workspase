@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width = device-width, initial-scale = 1.0" />  
+	<title>Svitiseit</title>
+	<meta name="description" content="Beschreibungstext">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- header -->
+<header>
+<h1>Svitlana Popova</h1>
+<h2>Devops und Deschain</h2>
+<nav>
+	<ul>
+	<li><a href="home">Home</a></li>
+	<li><a href="contact">Kontakt</a></li>
+	</ul>	
+</nav>
+</header>
+   
+<!-- article -->     
+<article>
+	<h3>Etwas über mich</h3>
+	<p>Ich bin froh,dass ich studieren und einen neuen Beruf erlernen kann.</p>	
+</article>
+          
+<!-- aside -->
+<aside>
+    <h3>DeepL</h3>
+    <p>Mit diesen Tools und Sprachen arbeite In jeden Tag</p>
+    <ul>
+        <li><a href="https://www.deepl.com/de/pro">https://www.deepl.com/de/pro</a></li>
+        
+    </ul>
+    <h3>DeepL Übersetzer: Der präziseste Übersetzer der Welt</h3>
+
+</aside>
+     
+     
+<!-- footer -->
+<footer>
+<h3>Credits</h3>
+<p>“Kurzer Dankestext und verlinkung auf die Techstarter Website in einem neuen Tab 🙂
+
+</p>
+</footer>
+     
+
+</body>
+</html>
